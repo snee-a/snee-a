@@ -43,11 +43,13 @@
   &nbsp; linkedin.com/in/sneha-pandey
 </a>  
 <br/>
-
 <a href="https://github.com/snee-a" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" height="30"/>
   &nbsp; github.com/snee-a
-</a>  
+</a>
+
+
+
 <br/>
 
 
