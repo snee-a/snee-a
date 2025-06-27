@@ -17,7 +17,7 @@
 - 💻 I love building websites using React, Node.js, TailwindCSS  
 - 🌱 Currently exploring more on **Backend** and **UI design**  
 - 📫 Reach me at [pandeysneha953@gmail.com](mailto:pandeysneha953@gmail.com)  
-- 📁 [Download Resume](#) *(Update this with your resume link)*
+- 📁 [Download Resume](https://geuac-my.sharepoint.com/:b:/g/personal/rahulsinghbora_22041049_gehu_ac_in/ETrlz4oZiSlBrJH4XeDFVLQBJW9lkdePb0f9PFCsXPeGDA?e=f1oTZN ) 
 
 </td>
 <td>
@@ -50,10 +50,7 @@
 </a>  
 <br/>
 
-<a href="https://instagram.com/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="30"/>
-  &nbsp; instagram.com/yourprofile
-</a>  
+
 
 </p>
 
@@ -93,7 +90,7 @@
 
 ### 📄 Resume
 
-[![Resume](https://img.shields.io/badge/My_Resume-View-blue)](https://your-resume-link.com)
+[![Resume](https://geuac-my.sharepoint.com/:b:/g/personal/rahulsinghbora_22041049_gehu_ac_in/ETrlz4oZiSlBrJH4XeDFVLQBJW9lkdePb0f9PFCsXPeGDA?e=f1oTZN )
 
 ---
 
