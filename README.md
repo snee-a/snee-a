@@ -79,8 +79,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=snee-a&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snee-a&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snee-a&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snee-a&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -93,12 +93,15 @@
 
 ### 📄 Resume
 
-[![Resume](https://img.shields.io/badge/My_Resume-View-blue)](https://geuac-my.sharepoint.com/:b:/g/personal/rahulsinghbora_22041049_gehu_ac_in/ETrlz4oZiSlBrJH4XeDFVLQBJW9lkdePb0f9PFCsXPeGDA?e=f1oTZN )
+[![Resume](https://img.shields.io/badge/My_Resume-View-blue)](https://your-resume-link.com)
 
 ---
 
-### 🔥 Pinned Projects (Add these manually on GitHub profile)
+### 🔥 Pinned Projects
+
+<!-- Add your best projects using GitHub UI customization -->
 
 ```markdown
-Pin your best projects here using GitHub UI →
-Go to your profile > Customize pinned repos > Add your top 6 projects
+➡️ Go to your GitHub profile  
+➡️ Click “Customize your pinned repositories”  
+➡️ Add your top projects here!
